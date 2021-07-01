@@ -3,6 +3,9 @@
 - :muscle: I'm studying programming. 
 I'm interested in Back-End web and app development. 
 
+</br>
+</br>
+
 ## :computer: Technology Stack
  <div align=center>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
@@ -16,9 +19,16 @@ I'm interested in Back-End web and app development.
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TYPESCRIPT&logoColor=white" />
  </div> 
  
+ </br>
+ </br>
+
+ 
 <div align=center>
  
  ### :stuck_out_tongue_closed_eyes: Let Me
+ 
+ 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://vnfmadl234.tistory.com/)](https://vnfmadl234.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m3k0813@gmail.com)](mailto:m3k0813@gmail.com)
 </div>
+
