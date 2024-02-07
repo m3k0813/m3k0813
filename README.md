@@ -28,6 +28,6 @@ I'm interested in Back-End web and app development.
  
 [![Velog](http://img.shields.io/badge/Velog-20C997?style=flat-square&logo=github&link=https://velog.io/@m3k0813/)](https://velog.io/@m3k0813/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://vnfmadl234.tistory.com/)](https://vnfmadl234.tistory.com/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m3k0813@gmail.com)](mailto:m3k0813@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m3k0813@gmail.com)](mailto:jeongjunm21@gmail.com)
 </div>
 
