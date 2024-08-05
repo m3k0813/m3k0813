@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JJM%&fontSize=90&fontAlign=80)
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi there! 👋 </h2>  
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 💻 I'm studying programming. </li></br></li>🖥️ I'm interested in BackEnd web and app development.</li></br></li>💪 I will become a constantly growing developer</li> </div> 
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 💻 I'm studying programming. </li></br></li>👊 I'm interested in BackEnd web and app development.</li></br></li>💪 I will become a constantly growing developer</li> </div> 
 </div>
 
 </br>
 </br>
 
-## :computer: Technology Stack
+## ⚒️ Technology Stack
 <div align="center">
 
   Language
