@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JJM%&fontSize=90&fontAlign=80)
+
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi there! 👋 </h2>  
-<div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 💻 I'm studying programming. </li></br></li>👊 I'm interested in BackEnd web and app development.</li></br></li>💪 I will become a constantly growing developer</li> </div> 
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 💻 I'm studying programming. </li></br></li>👊 I'm interested in BackEnd web and app development.</li></br></li>💪 I will become a constantly growing developer</li>
+</div> 
 </div>
 
 </br>
@@ -67,14 +69,7 @@
    
   </div>
  
- </br>
- </br>
 
-<div style="text-align: left;"> 
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=m3k0813&bg_color=180,dbdbdb,00000000&title_color=000000&text_color=000000"
-   /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m3k0813&layout=compact&bg_color=180,dbdbdb,00000000&title_color=000000&text_color=000000"
-     /> </div> 
-</div>
  
 <div align=center>
 
