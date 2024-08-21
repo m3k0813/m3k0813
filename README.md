@@ -37,16 +37,17 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
   <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=github actions&logoColor=white">
-  <img src="https://img.shields.io/badge/aws elastic load balancing-8C4FFF?style=for-the-badge&logo=aws elastic load balancing&logoColor=white">  
+ 
     
   Cloud
   </br>
   </br>
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
   <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white">
-  <img src="https://img.shields.io/badge/aws lambda-FF9900?style=for-the-badge&logo=aws lambda&logoColor=white">
+  <img src="https://img.shields.io/badge/aws lambda-FF9900?style=for-the-badge&logo=aws lambda&logoColor=white">   </br>
   <img src="https://img.shields.io/badge/amazon rds-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white">
   <img src="https://img.shields.io/badge/aws cloudfront-3448C5?style=for-the-badge&logo=aws cloudfront&logoColor=white">
+  <img src="https://img.shields.io/badge/aws elastic load balancing-8C4FFF?style=for-the-badge&logo=aws elastic load balancing&logoColor=white"> 
         
 
   Monitoring
