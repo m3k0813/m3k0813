@@ -23,7 +23,7 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=m3k0813&show_icons=true&theme=cobalt" width="460" height="350"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=m3k0813&show_icons=true&theme=cobalt" width="400" height="350"/>
   
   ### 🛠 SKILL 🛠
  
