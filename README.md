@@ -14,7 +14,6 @@
   - 6th University MakeUs Challenge TUK (2024.02 ~ 2024.08)
   - 7th Techeer (2024.02 ~ )
   - 4th Techeer Partners (2024.02 ~ 2024.06)
-  - 2023 Silicon Valley BootCamp (2023.12 ~ 2024.02)
   - Tech University of Korea (2020.03 ~ )
  
 
