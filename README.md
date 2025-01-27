@@ -4,6 +4,8 @@
   <img align="right" src="https://render.gitanimals.org/farms/m3k0813" width="400" height="300"/>
   
 <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi there! I'm jeongjunmin👋 </h1>  
+<h3>📜 History</h3>
+
 
 </div> 
   
@@ -25,7 +27,7 @@
   
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=m3k0813&show_icons=true&theme=cobalt" width="400" height="350"/>
   
-  ### 🛠 SKILL 🛠
+  ### ⚒️ Technology Stack
  
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=Php&logoColor=white"> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
