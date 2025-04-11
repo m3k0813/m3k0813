@@ -10,7 +10,7 @@
 </div> 
   
   - 3rd 9oormthonUniv TUK (2024.07 ~ 2025.01)  
-  - 7th University MakeUs Challenge TUK Spring Lead (2024.09 ~ )   
+  - 7th University MakeUs Challenge TUK Server Lead (2024.09 ~ )   
   - 6th University MakeUs Challenge TUK (2024.02 ~ 2024.08)
   - 7th Techeer (2024.02 ~ )
   - 4th Techeer Partners (2024.02 ~ 2024.06)
