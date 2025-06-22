@@ -24,7 +24,7 @@
   
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=m3k0813&show_icons=true&theme=cobalt" width="400" height="350"/>
 
-  </br></br>
+  </br>
   
   ### ⚒️ Technology Stack
  
@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 </div>
 
-</br></br>
+</br>
 
 
 <h3 align="center">😝 Let Me</h3>
