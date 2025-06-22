@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JJM%&fontSize=90&fontAlign=80)
 <div align="center">
-  <img align="right" src="https://render.gitanimals.org/farms/m3k0813" width="375" height="300"/>
+  <img align="right" src="https://render.gitanimals.org/farms/m3k0813" width="380" height="300"/>
 <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi there! I'm jeongjunmin👋 </h1>
   
 <h3>📜 Activity</h3>
