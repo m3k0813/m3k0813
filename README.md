@@ -23,7 +23,7 @@
 
 <div align="center">
   
-  ### 🌱 Open Source Contributions
+  ### 🌱 Open Source Contribution
 
 | Project | Summary | PR |
 |----------|--------------|----------|
