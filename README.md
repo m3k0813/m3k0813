@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JJM%&fontSize=90&fontAlign=80)
 <div align="center">
 
 <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi there! I'm Jeongjun Min👋 </h1>
