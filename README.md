@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=JJM%&fontSize=90&fontAlign=80)
 <div align="center">
-  <img align="right" src="https://render.gitanimals.org/farms/m3k0813" width="380" height="300"/>
-<h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi there! I'm jeongjunmin👋 </h1>
+
+<h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Hi there! I'm Jeongjun Min👋 </h1>
   
 <h3>📜 Activity</h3>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=m3k0813&show_icons=true&theme=cobalt" width="400" height="350"/>
 
 </div> 
 
@@ -23,14 +24,21 @@
 
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=m3k0813&show_icons=true&theme=cobalt" width="400" height="350"/>
+  ## 🌱 Open Source Contributions
+
+| Project | Summary | PR |
+|----------|--------------|----------|
+| [Spring AMQP](https://github.com/spring-projects/spring-amqp) | Defer SMLC shutdown for pending replies | [#3147](https://github.com/spring-projects/spring-amqp/pull/3147) |
+| [Spring Data Cassandra](https://github.com/spring-projects/spring-data-cassandra) | Support multiple Update operations for the same column name | [#1596](https://github.com/spring-projects/spring-data-cassandra/pull/1596) |
 
   </br>
   
   ### ⚒️ Technology Stack
  
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=Php&logoColor=white"> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+<img src="https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=Php&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white">
@@ -39,7 +47,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"> <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"> <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 <img src="https://img.shields.io/badge/ELK STACK-005571?style=for-the-badge&logo=elastic&logoColor=white">
 <img src="https://img.shields.io/badge/prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
 <img src="https://img.shields.io/badge/grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
