@@ -4,13 +4,13 @@
   
 <h3>📜 Activity</h3>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=m3k0813&show_icons=true&theme=cobalt" width="380" height="350"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=m3k0813&show_icons=true&theme=cobalt" width="350" height="350"/>
 
 </div> 
 
   - 2025 Google Developer Groups on Campus TUK (2025.04 ~ )
   - 3rd 9oormthonUniv TUK (2024.07 ~ 2025.01)  
-  - 7th University MakeUs Challenge TUK Server Lead (2024.09 ~ )   
+  - 7th University MakeUs Challenge TUK Server Lead (2024.09 ~ 2025.02)   
   - 6th University MakeUs Challenge TUK (2024.02 ~ 2024.08)
   - 7th Techeer (2024.02 ~ )
   - 4th Techeer Partners (2024.02 ~ 2024.06)
